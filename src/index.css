@@ -1,0 +1,65 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.main{
+  background : url(https://media.istockphoto.com/id/1392881362/video/time-lapse-sunrise-with-cloud.jpg?s=640x640&k=20&c=iMXDjgLbZWRV_k1NnWjtva0g0MtymEpPSKDt2teGY2U=); 
+ height: 100vh;
+ width: 100%;
+ background-size: cover; 
+ justify-content: center;
+ align-items: center;
+ text-align: center;
+ display: flex;
+ flex-wrap: wrap;
+ background-position: center;
+ background-size: cover;
+}
+
+.Card{
+ height: 40vh;
+ width: 30%;
+ background:transparent;
+ color: black;
+ font-size: larger;
+ text-align:center;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ flex-direction: column;
+}
+
+.Card1{
+ background: transparent;
+ color: black;
+ font-weight: bold;
+}
+
+.data{
+ background: transparent;
+}
+
+.btn{
+ background: transparent;
+ color: black;
+ height: 40px;
+ width: 120px;
+ font-size: medium;
+ flex-wrap: wrap;
+}
+
+.inp{
+ background: white;
+ color: black;
+ height: 40px;
+ width: 250px;
+ font-size: medium;
+ font-weight: bold;
+ flex-wrap: wrap;
+
+}
+
+p{
+ background: transparent;
+}
+
